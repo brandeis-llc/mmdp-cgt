@@ -1,0 +1,328 @@
+{
+    "147.27": {
+        "gold": [],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Prepare things for this one"
+                },
+                "output": {
+                    "text": "Participant 1 instructed the group to prepare the necessary items for the next measurement.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: So you think they're the same weight or"
+                },
+                "output": {
+                    "text": "Participant 1 asked the group if they thought the blocks being compared were of the same weight.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: They're still teetering"
+                },
+                "output": {
+                    "text": "Participant 1 observed that the scale was still teetering, indicating that the weights of the blocks had not yet balanced.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I think they're the same weight yeah"
+                },
+                "output": {
+                    "text": "Participant 1 concluded that they believed the blocks were of the same weight.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: I think they are same weight"
+                },
+                "output": {
+                    "text": "Participant 2 agreed, stating that they also thought the blocks were of the same weight.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"unknown\": \"same weight\"\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "219.93": {
+        "gold": [
+            "green=20"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: The blue one is also ten right"
+                },
+                "output": {
+                    "text": "```json\n{\n  \"red\": 10,\n  \"blue\": 10\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: So I should indicate it as ten"
+                },
+                "output": {
+                    "text": "Participant 3 confirmed that they should record the weight of the blue block as 10 grams.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: The suspense is killing me it takes forever"
+                },
+                "output": {
+                    "text": "Participant 1 expressed their impatience, noting that the process was taking a long time and the suspense was difficult to bear.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Yes it's probably twenty so green one is twenty"
+                },
+                "output": {
+                    "text": "```json\n{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Sufficient to say that one's probably twenty or"
+                },
+                "output": {
+                    "text": "Participant 1 suggested that it was reasonable to conclude that the green block probably weighed 20 grams.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "243.42": {
+        "gold": [
+            "green=20",
+            "purple=30"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Then well uh no uh I want to check if any block is thirty so"
+                },
+                "output": {
+                    "text": "Participant 2 expressed a desire to check if any block weighed 30 grams.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I think that's a good guess"
+                },
+                "output": {
+                    "text": "Participant 1 agreed, stating that they thought it was a good idea to check if any block weighed 30 grams.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: The purple one is thirty"
+                },
+                "output": {
+                    "text": "```json\n{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20,\n  \"purple\": 30\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Purple is thirty yeah"
+                },
+                "output": {
+                    "text": "Participant 3 confirmed that the purple block weighs 30 grams.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20,\n  \"purple\": 30\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "277.05": {
+        "gold": [
+            "green=20",
+            "purple=30",
+            "yellow=50"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Which is blue and which is purple"
+                },
+                "output": {
+                    "text": "Participant 2 asked for clarification on which block was blue and which was purple.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Hold that purple"
+                },
+                "output": {
+                    "text": "Participant 2 instructed someone to hold the purple block.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I think this is more purple-y yeah"
+                },
+                "output": {
+                    "text": "Participant 1 commented that they believed the block in question had a more purple hue.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: This is blue maybe"
+                },
+                "output": {
+                    "text": "Participant 3 suggested that the block they were holding might be blue.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: This one feels just a smidge heavier yeah try that one"
+                },
+                "output": {
+                    "text": "Participant 1 noted that the block they were holding felt slightly heavier and suggested trying that one.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Green is twenty right"
+                },
+                "output": {
+                    "text": "Participant 3 confirmed that the green block weighs 20 grams.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Green and this one"
+                },
+                "output": {
+                    "text": "Participant 2 referred to the green block and another unspecified block.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Green is twenty and purple is thirty so it weighs to fifty"
+                },
+                "output": {
+                    "text": "Participant 3 stated that the green block weighs 20 grams and the purple block weighs 30 grams, making a combined weight of 50 grams.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: It seems to be"
+                },
+                "output": {
+                    "text": "Participant 1 agreed, stating that it seemed to be correct.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20,\n  \"purple\": 30\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    }
+}

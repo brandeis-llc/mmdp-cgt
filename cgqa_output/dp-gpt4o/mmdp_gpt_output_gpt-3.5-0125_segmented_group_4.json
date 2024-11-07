@@ -1,0 +1,226 @@
+{
+    "131.94": {
+        "gold": [
+            "purple=30"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Uh red block, blue block, green block, purple block, yellow block are not all weight yellow block has more weight oh we're group four so we press enter here"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Uh red block, blue block, green block, purple block, yellow block are not all weight yellow block has more weight oh we're group four so we press enter here.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Ok so the red has ten"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Ok so the red has ten.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Well then no let's compare the red to the blue to see if we can get a baseline to the blue"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Well then no let's compare the red to the blue to see if we can get a baseline to the blue.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Ok there easy so green block is twenty yeah cause red block is ten as long as it's not dropping red block, blue block's the same"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"Ok there easy so green block is twenty yeah cause red block is ten as long as it's not dropping red block, blue block's the same.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Is blue block ten and green block was equal to red block, blue block one"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Is blue block ten and green block was equal to red block, blue block one.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: And then green block was"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"And then green block was.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I feel like purple block one is oh yeah so this is"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"I feel like purple block one is oh yeah so this is.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: it doesn't drop completely yeah we can consider purple block to be thirty then yeah because it doesn\u2019t drop"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"It doesn't drop completely yeah we can consider purple block to be thirty then yeah because it doesn\u2019t drop.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Can we yeah and purple block's obviously not forty"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Can we yeah and purple block's obviously not forty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Well purple block's not and purple block's not twenty yeah purple block's gotta be thirty"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Well purple block's not and purple block's not twenty yeah purple block's gotta be thirty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"green\": 20,\n  \"purple\": 30\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "176.11": {
+        "gold": [
+            "purple=30",
+            "yellow=50"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Yeah ok so purple block's thirty are we writing this down somewhere"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Yeah ok so purple block's thirty are we writing this down somewhere.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Wait yellow block oh yeah oh ok"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Wait yellow block oh yeah oh ok.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Uh so yellow we or red and blue there's no there's no ok"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Uh so yellow we or red and blue there's no there's no ok.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Ok so we can say that yellow block is fifty"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"Ok so we can say that yellow block is fifty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Blue is ten"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"Blue is ten.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Weren't purple block, green block both thirty or no only one of purple block, green block twenty and thirty"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Weren't purple block, green block both thirty or no only one of purple block, green block twenty and thirty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: No green block is twenty you're off the team"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"No green block is twenty you're off the team.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20,\n  \"purple\": 30,\n  \"yellow\": 50\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    }
+}

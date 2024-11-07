@@ -1,0 +1,258 @@
+{
+    "65.73": {
+        "gold": [],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: I would say red block, blue block's equal probably"
+                },
+                "output": {
+                    "text": "Participant 2 suggested that the red block and the blue block probably weigh the same.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Looks equal yeah get"
+                },
+                "output": {
+                    "text": "Participant 3 agreed that the blocks look equal and suggested proceeding with the next step.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "79.58": {
+        "gold": [],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I would say red block, blue block's equal"
+                },
+                "output": {
+                    "text": "```json\n{\n  \"red\": 10,\n  \"blue\": 10\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Yeah blue block should be same I guess"
+                },
+                "output": {
+                    "text": "```json\n{\n  \"red\": 10,\n  \"blue\": 10\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "136.79": {
+        "gold": [
+            "purple=30"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Yeah ok so green block one will go"
+                },
+                "output": {
+                    "text": "No, they have not reached a conclusion on the weight of the green block yet. The discussion is still ongoing. The current confirmed weights are:\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Yeah red block, blue block, green block's probably equal"
+                },
+                "output": {
+                    "text": "Yes, they have reached a conclusion on the weight of the green block as well.\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 10\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: So we got ten ten"
+                },
+                "output": {
+                    "text": "No, they have not reached a conclusion on the weight of the green block yet. The current confirmed weights are:\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: purple block's not"
+                },
+                "output": {
+                    "text": "No, they have not reached a conclusion on the weight of the purple block yet. The current confirmed weights are:\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Definitely not equal"
+                },
+                "output": {
+                    "text": "No, they have not reached a conclusion on the weight of the purple block yet. The current confirmed weights are:\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: green block, blue block was twenty and ten right ok"
+                },
+                "output": {
+                    "text": "Yes, they have reached a conclusion on the weight of the green block as well.\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: green block, blue block was twenty ten yep"
+                },
+                "output": {
+                    "text": "Yes, they have reached a conclusion on the weight of the green block as well.\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Look we have the thirty gram block and then"
+                },
+                "output": {
+                    "text": "No, they have not reached a conclusion on the weight of the thirty gram block yet. The current confirmed weights are:\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "173.75": {
+        "gold": [
+            "purple=30",
+            "yellow=50"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: The two the yellow and green I don't know just kidding"
+                },
+                "output": {
+                    "text": "No, they have not reached a conclusion on the weight of the yellow block yet. The current confirmed weights are:\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Just like ever so slightly though so green block, purple block, yellow block's probably probably say green block, purple block, yellow block's equal"
+                },
+                "output": {
+                    "text": "Yes, they have reached a conclusion on the weight of the yellow and purple blocks as well.\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20,\n  \"purple\": 20,\n  \"yellow\": 20\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: I think yellow block's sixty so green block one was twenty"
+                },
+                "output": {
+                    "text": "No, they have not reached a conclusion on the weight of the yellow block yet. The current confirmed weights are:\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: purple block one was thirty so yellow block should be fifty less"
+                },
+                "output": {
+                    "text": "No, they have not reached a conclusion on the weight of the yellow block yet. The current confirmed weights are:\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20,\n  \"purple\": 30\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Ok good deal"
+                },
+                "output": {
+                    "text": "No, they have not reached a conclusion on the weight of the yellow block yet. The current confirmed weights are:\n\n```json\n{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20,\n  \"purple\": 30\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20,\n  \"purple\": 30\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    }
+}

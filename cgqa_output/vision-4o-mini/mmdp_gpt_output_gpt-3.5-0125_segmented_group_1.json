@@ -1,0 +1,1720 @@
+{
+    "98.088": {
+        "gold": [
+            "blue=10",
+            "red=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": [
+                    {
+                        "role": "user",
+                        "content": "Participant 3 utterance: It's right there\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 3 utterance: Um it's turned off\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Ok well it would be nine minus ten\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 2 utterance: That's ten so then\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Just like put it on\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 3 utterance: It seems pretty balanced\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                    }
+                ],
+                "output": {
+                    "text": "{\n  \"red\": 10\n}",
+                    "model": "gpt-4o-mini-2024-07-18",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "104.58": {
+        "gold": [
+            "blue=10",
+            "red=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": [
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Yeah ok so now we know that this is also ten\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 2 utterance: Ok\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "They concluded that red block is 10. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                    }
+                ],
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"yellow\": 10,\n  \"purple\": 10,\n  \"green\": 10\n}",
+                    "model": "gpt-4o-mini-2024-07-18",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "132.0": {
+        "gold": [
+            "green=20",
+            "blue=10",
+            "red=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": [
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: What would we maybe put that one on there too\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 2 utterance: It's more\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Lets try this one oh gee louise this one\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 2 utterance: Ok so this one is probably twenty ten ten twenty\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "They concluded that red block is 10, blue block is 10, yellow block is 10, purple block is 10, green block is 10. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                    }
+                ],
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"yellow\": 10,\n  \"purple\": 10,\n  \"green\": 10\n}",
+                    "model": "gpt-4o-mini-2024-07-18",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "150.56": {
+        "gold": [
+            "green=20",
+            "purple=30",
+            "blue=10",
+            "red=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": [
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Ok so now lets start at thirty alright put one of those on there\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 2 utterance: Probably thirty at this point\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "They concluded that red block is 10, blue block is 10, yellow block is 10, purple block is 10, green block is 10. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                    }
+                ],
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"yellow\": 10,\n  \"purple\": 10,\n  \"green\": 10\n}",
+                    "model": "gpt-4o-mini-2024-07-18",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "185.12": {
+        "gold": [
+            "green=20",
+            "purple=30",
+            "blue=10",
+            "red=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": [
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Ok so we got ok yeah this one is really heavy so lets do the a this and a ten\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Interesting so that's ten twenty\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: So we said this ones thirty I still feel like that's heavier and this one is twenty\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 2 utterance: Yeah yeah the blue dark blue one is thirty that's the larger one it's slightly heavier yeah\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "They concluded that red block is 10, blue block is 10, yellow block is 10, purple block is 10, green block is 10. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                    }
+                ],
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"yellow\": 10,\n  \"purple\": 10,\n  \"green\": 10\n}",
+                    "model": "gpt-4o-mini-2024-07-18",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "269.27": {
+        "gold": [
+            "green=20",
+            "purple=30",
+            "blue=10",
+            "yellow=50",
+            "red=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": [
+                    {
+                        "role": "user",
+                        "content": "Participant 3 utterance: We can replace one of these with the twenty to get\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Ok and then put that on that one\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 2 utterance: How much is the dark blue small one ten\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Ten they're both\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Assuming that this was\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 2 utterance: Oh gosh I think I got them mixed up\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Yeah Im thinking that it's ten ten twenty thirty\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 2 utterance: It's just like slightly\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: And now it stopped being too heavy\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: So this is supposedly\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Thirty fourty fifty correct and it's still heavier than this thing\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: So thirty this is also forty right so this if forty yeah\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 2 utterance: Ok so that one's twenty right\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: This is fifty it's not\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "Participant 1 utterance: Yo that's close enough ok so\n"
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Image frames corresponding to the utterance above:\n"
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": "image_url",
+                                    "detail": "low"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "role": "user",
+                        "content": "They concluded that red block is 10, blue block is 10, yellow block is 10, purple block is 10, green block is 10. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                    }
+                ],
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"yellow\": 10,\n  \"purple\": 10,\n  \"green\": 10\n}",
+                    "model": "gpt-4o-mini-2024-07-18",
+                    "role": "assistant"
+                }
+            }
+        ]
+    }
+}

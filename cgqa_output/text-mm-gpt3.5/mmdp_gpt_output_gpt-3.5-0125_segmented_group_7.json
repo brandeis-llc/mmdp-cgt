@@ -1,0 +1,673 @@
+{
+    "112.42": {
+        "gold": [
+            "blue=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Let's start with the smallest block\nParticipant 2 gesture: point(('blue_block', 'other participants'))\nParticipant 2 gesture: point(('blue_block', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 2 suggested starting with the smallest block and pointed at the blue block while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: I think so as well or I think it's the other way around uh"
+                },
+                "output": {
+                    "text": "Participant 3 agreed with Participant 2's suggestion, saying \"I think so as well\" or \"I think it's the other way around.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: It seems to be ten"
+                },
+                "output": {
+                    "text": "Participant 2 commented that it seems to be ten.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red_block\": 10,\n  \"blue_block\": 10\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "149.74": {
+        "gold": [
+            "blue=10",
+            "green=20"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Is that blue or purple this is blue I guess\nScale state: scale: lean(right)\nParticipant 1 action: put(blueblock,(table))\nParticipant 2 gesture: point(('purple_block', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 2 questioned the color of the block, stating \"Is that blue or purple? This is blue, I guess.\" The scale leaned to the right. Participant 1 placed the blue block on the table. Participant 2 pointed at the purple block while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: This is blue\nParticipant 2 gesture: point(('blue_block', 'other participants'))\nParticipant 3 gesture: point(('blue_block', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 confirmed that the block is blue. Participant 2 and Participant 3 both pointed at the blue block while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: And this was ten"
+                },
+                "output": {
+                    "text": "Participant 3 mentioned that the weight of the block was ten grams.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: and we can now we have twenty so we can try to put one of them\nParticipant 2 action: put(blueblock,(rightscale))\nParticipant 1 action: put(purpleblock,(leftscale))\nScale state: scale: lean(left)"
+                },
+                "output": {
+                    "text": "Participant 2 suggested that since they now have a total weight of twenty grams, they can try putting one of the blocks on the scale. Participant 2 placed the blue block on the right scale, while Participant 1 placed the purple block on the left scale. The scale leaned to the left.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Oh that's the heaviest\nParticipant 1 action: put(purpleblock,(table))\nScale state: scale: lean(right)"
+                },
+                "output": {
+                    "text": "Participant 3 exclaimed, \"Oh, that's the heaviest!\" Participant 1 placed the purple block back on the table. The scale leaned to the right.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Scale state: scale: lean(left)\nParticipant 2 action: put(yellowblock,(leftscale))\nParticipant 2 utterance: Oh this seems to heavy"
+                },
+                "output": {
+                    "text": "The scale leaned to the left. Participant 2 placed the yellow block on the left scale and commented, \"Oh, this seems too heavy.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Think it should be"
+                },
+                "output": {
+                    "text": "Participant 1 expressed their opinion by saying, \"Think it should be.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Yeah they should be twenty as well"
+                },
+                "output": {
+                    "text": "Participant 3 agreed, saying, \"Yeah, they should be twenty as well.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Should I put this as twenty\nParticipant 3 gesture: point(('computer', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 asked if they should input the weight as twenty and pointed at the computer while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "They concluded that red_block block is 10, blue_block block is 10. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red_block\": 10,\n  \"blue_block\": 10\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "233.54": {
+        "gold": [
+            "green=20",
+            "blue=10",
+            "yellow=50"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 action: put(greenblock,(rightscale))\nScale state: scale: lean(right)\nParticipant 1 utterance: Green"
+                },
+                "output": {
+                    "text": "Participant 1 placed the green block on the right scale, causing the scale to lean to the right. Participant 1 identified the block as green.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Now it's forty"
+                },
+                "output": {
+                    "text": "Participant 1 noted that the total weight was now forty grams.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 action: lift(purpleblock)\nParticipant 1 utterance: This is"
+                },
+                "output": {
+                    "text": "Participant 2 lifted the purple block. Participant 1 started a sentence with \"This is.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: No no no that's silly"
+                },
+                "output": {
+                    "text": "Participant 1 disagreed with something, stating \"No no no, that's silly.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 action: lift(yellowblock)\nParticipant 2 utterance: I think that's heavier"
+                },
+                "output": {
+                    "text": "Participant 1 lifted the yellow block. Participant 2 expressed their opinion, saying \"I think that's heavier.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 action: put(purpleblock,(leftscale))\nParticipant 1 utterance: This one or this one"
+                },
+                "output": {
+                    "text": "Participant 1 placed the purple block on the left scale. They then asked a question, saying, \"This one or this one?\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: eh that one is lighter yeah\nParticipant 2 gesture: point(('purple_block', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 2 commented that the purple block is lighter and pointed at the purple block while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 gesture: confirm(('i-dont-know', 'other participants'))\nParticipant 3 utterance: Yeah I think it's yeah thirty"
+                },
+                "output": {
+                    "text": "Participant 3 confirmed uncertainty with a gesture and then stated, \"Yeah, I think it's... yeah, thirty.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: So it's not exactly aligning but it could be\nParticipant 2 gesture: point(('scale', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 2 observed that the blocks were not exactly aligning on the scale but suggested that it could be a possibility. They pointed at the scale while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Fifty and the purple is"
+                },
+                "output": {
+                    "text": "Participant 2 mentioned the total weight as fifty and started to mention the weight of the purple block.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "They concluded that red_block block is 10, blue_block block is 10. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red_block\": 10,\n  \"blue_block\": 10\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "433.33": {
+        "gold": [
+            "green=20",
+            "blue=10",
+            "yellow=50"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Fifty oh purple is thirty yellow\nParticipant 2 action: put(blueblock,(leftscale))\nParticipant 1 gesture: point(('yellow_block', 'other participants'))\nParticipant 2 gesture: point(('scale', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 stated that the total weight was fifty, with the purple block weighing thirty grams and the yellow block weighing the remaining weight. Participant 2 placed the blue block on the left scale. Participant 1 pointed at the yellow block while looking at the other participants. Participant 2 gestured towards the scale while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I'm sorry It purple is thirty\nParticipant 1 gesture: point(('computer', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 1 apologized and corrected the weight of the purple block to be thirty grams. They pointed at the computer while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Uh it's not exactly aligning should I"
+                },
+                "output": {
+                    "text": "Participant 2 noticed that the blocks were not aligning perfectly on the scale and asked if they should take any action.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: So this seem it's little more yeah so should I put something here\nParticipant 2 gesture: point(('scale', 'other participants'))\nParticipant 2 gesture: point(('scale', 'other participants'))\nScale state: scale: lean(left)"
+                },
+                "output": {
+                    "text": "Participant 2 observed that there was a slight imbalance on the scale, indicating that one side seemed to be slightly heavier. They pointed at the scale twice while looking at the other participants. The scale leaned to the left.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Do you want to put ten it is"
+                },
+                "output": {
+                    "text": "Participant 1 suggested putting a weight of ten grams to balance the scale.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: We can try it yeah"
+                },
+                "output": {
+                    "text": "Participant 3 agreed, saying \"We can try it, yeah.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: But then that'll even this is\nParticipant 2 gesture: point(('block', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 2 pointed at the block and mentioned that adding weight to one side would balance the scale.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: This is ten ok we know that this is ten"
+                },
+                "output": {
+                    "text": "Participant 2 confirmed that the weight being added was ten grams, stating, \"This is ten, ok, we know that this is ten.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Yeah no it's still on the left\nParticipant 2 gesture: point(('blue_block', 'other participants'))\nParticipant 1 gesture: point(('scale', 'other participants'))\nParticipant 2 gesture: point(('scale', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 noted that the scale was still leaning to the left. Participant 2 pointed at the blue block, while Participant 1 and Participant 2 both gestured towards the scale while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Yeah but we put both ten so that they cancel out\nParticipant 1 gesture: point(('blue_block', 'other participants'))\nParticipant 2 gesture: point(('blue_block', 'other participants'))\nParticipant 2 gesture: point(('red_block', 'other participants'))\nParticipant 2 gesture: point(('blue_block', 'other participants'))\nParticipant 2 gesture: point(('red_block', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 2 suggested that since both sides had weights of ten grams, they should cancel each other out. Participant 1 and Participant 2 pointed at the blue block. Participant 2 pointed at the blue block and the red block multiple times while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Now it's completely now"
+                },
+                "output": {
+                    "text": "Participant 1 commented that the scale was now completely balanced.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 action: put(blueblock,(rightscale))\nParticipant 2 action: put(blueblock,(yellowblock))\nScale state: scale: lean(zero)\nParticipant 3 utterance: You mean like this"
+                },
+                "output": {
+                    "text": "Participant 3 placed the blue block on the right scale, while Participant 2 placed the blue block on top of the yellow block. The scale was now balanced. Participant 3 asked, \"You mean like this?\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: So this is thirty oops sorry\nParticipant 2 gesture: point(('purple_block', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 2 realized and corrected the weight of the purple block to be thirty grams. They pointed at the purple block while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: It's okay or we should just us scale it with this one"
+                },
+                "output": {
+                    "text": "Participant 1 suggested using the scale to weigh the block or to compare it with another block.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: It's it's two gram I think\nParticipant 2 gesture: point(('scale', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 1 estimated the weight of the block to be two grams. Participant 2 pointed at the scale while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: It has until five but\nParticipant 1 gesture: point(('scale', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 1 mentioned that the scale could go up to five, while pointing at the scale and looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 action: put(redblock,(table))\nParticipant 1 action: lift(purpleblock)\nParticipant 3 utterance: Yeah it's I don't know\nParticipant 2 gesture: point(('scale', 'other participants'))\nParticipant 3 gesture: confirm(('no', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 placed the red block on the table. Participant 1 lifted the purple block. Participant 3 expressed uncertainty, saying \"Yeah, I don't know.\" Participant 2 pointed at the scale, while Participant 3 confirmed with a gesture indicating \"no\" while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: What does this do"
+                },
+                "output": {
+                    "text": "Participant 2 asked what a particular action or item does.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: It's five gram now\nParticipant 1 gesture: point(('scale', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 1 stated that the weight was now five grams, while pointing at the scale and looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: It's mmm it's this way plus five so you can\nParticipant 1 gesture: point(('scale', 'other participants'))\nParticipant 3 action: put(purpleblock,(rightscale))\nScale state: scale: lean(zero)"
+                },
+                "output": {
+                    "text": "Participant 1 explained that the weight was in a certain direction, adding five grams. They pointed at the scale while looking at the other participants. Participant 3 placed the purple block on the right scale, resulting in the scale being balanced.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Oh ok so it could be\nParticipant 1 gesture: point(('scale', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 acknowledged the situation with \"Oh, ok, so it could be.\" Participant 1 pointed at the scale while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: So if you move it there then we're adding like five grams yeah to that one\nParticipant 3 gesture: point(('scale', 'other participants'))\nParticipant 2 gesture: point(('scale', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 explained that by moving the block to a certain position, they would be adding five grams to that side. They pointed at the scale while looking at the other participants. Participant 2 also pointed at the scale while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Going to this one yeah\nParticipant 1 gesture: point(('scale', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 1 indicated that they were going towards a particular direction or choice, saying \"Going to this one, yeah,\" while pointing at the scale and looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: No so it's divided it's two point five and two point five so it can't be other five that's not how it works"
+                },
+                "output": {
+                    "text": "Participant 2 explained that the weight was divided into two parts of two point five grams each, totaling five grams. They mentioned that it couldn't be another five grams as it doesn't work that way.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: So is it to the right right now like the scale\nParticipant 3 gesture: point(('scale', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 asked if the scale was leaning to the right at that moment, pointing at the scale while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Like the center scale is it to the right okay so\nParticipant 3 gesture: point(('scale', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 clarified by asking if the center of the scale was towards the right, indicating the scale while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: But it doesn't have any\nParticipant 1 gesture: point(('computer', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 1 mentioned that something didn't have any, pointing at the computer while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Ah yeah because yeah so it's fifty\nParticipant 1 gesture: point(('computer', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 1 realized and explained that the total weight was fifty grams, pointing at the computer while looking at the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: So if it's an interval of ten it should be forty but"
+                },
+                "output": {
+                    "text": "Participant 3 reasoned that if there was an interval of ten, the total weight should be forty grams, but there seemed to be a discrepancy.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: It's more balanced with fifty grams"
+                },
+                "output": {
+                    "text": "Participant 3 observed that the scale was more balanced with a weight of fifty grams.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Otherwise uh like it wasn't balanced with"
+                },
+                "output": {
+                    "text": "Participant 3 mentioned that without a certain weight, the scale was not balanced.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 gesture: point(('scale', 'other participants'))\nParticipant 1 utterance: It's slightly off\nParticipant 1 gesture: point(('scale', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 pointed at the scale, while Participant 1 commented that it was slightly off, pointing at the scale as well.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "They concluded that red_block block is 10, blue_block block is 10. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red_block\": 10,\n  \"blue_block\": 10\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    }
+}

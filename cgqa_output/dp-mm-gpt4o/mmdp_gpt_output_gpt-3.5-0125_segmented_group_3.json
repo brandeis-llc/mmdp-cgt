@@ -1,0 +1,306 @@
+{
+    "147.27": {
+        "gold": [],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 action: put(redblock,(rightscale))\nScale state: scale: lean(right)\nParticipant 1 utterance: Prepare things for red block one"
+                },
+                "output": {
+                    "text": "Participant 1 placed the red block on the right side of the scale, causing the scale to lean to the right. Participant 1 then said, \"Prepare things for red block one.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: So you think red block, blue block're the same weight or"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"So you think red block, blue block're the same weight or...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: red block, blue block're still teetering"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"Red block, blue block're still teetering.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I think red block, blue block're the same weight yeah\nParticipant 3 gesture: point(('computer', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"I think red block, blue block're the same weight, yeah.\" Meanwhile, Participant 3 pointed towards the computer and the other participants.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: I think red block, blue block are same weight"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"I think red block, blue block are the same weight.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "219.93": {
+        "gold": [
+            "green=20"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: The blue one is also ten right"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"The blue one is also ten, right?\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: So I should indicate blue block as ten\nParticipant 3 gesture: point(('computer', 'other participants'))\nParticipant 1 gesture: confirm(('yes', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"So I should indicate blue block as ten,\" while pointing towards the computer and the other participants. Participant 1 confirmed by gesturing \"yes\" towards the other participants.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Yes green block's probably twenty so green one is twenty\nParticipant 3 gesture: point(('computer', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Yes, green block's probably twenty, so green one is twenty,\" while pointing towards the computer and the other participants.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Sufficient to say green block one's probably twenty or"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"Sufficient to say green block one's probably twenty or...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "243.42": {
+        "gold": [
+            "green=20",
+            "purple=30"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Then well uh no uh I want to check if any block is thirty so"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Then well uh no uh I want to check if any block is thirty so...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: The purple one is thirty"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"The purple one is thirty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Purple is thirty yeah"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Purple is thirty, yeah.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20,\n  \"purple\": 30\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "277.05": {
+        "gold": [
+            "green=20",
+            "yellow=50",
+            "purple=30"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Which is blue and which is purple\nParticipant 2 action: lift(blueblock)"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Which is blue and which is purple,\" while lifting the blue block.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Hold that purple"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Hold that purple.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 gesture: point(('purple_block', 'other participants'))\nParticipant 3 action: lift(blueblock)\nParticipant 1 utterance: I think purple block is more purple-y yeah\nParticipant 1 action: put(purpleblock,(table))"
+                },
+                "output": {
+                    "text": "Participant 1 pointed towards the purple block and the other participants. Participant 3 lifted the blue block. Participant 1 said, \"I think purple block is more purple-y, yeah,\" and then placed the purple block on the table.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: blue block is blue maybe"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Blue block is blue maybe.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 action: put(yellowblock,(leftscale))\nParticipant 1 utterance: yellow block one feels just a smidge heavier yeah try green block one\nScale state: scale: lean(left)\nParticipant 1 action: put(purpleblock,(rightscale))\nParticipant 2 action: put(greenblock,(table))\nParticipant 1 action: put(redblock,(table))\nParticipant 1 action: put(purpleblock,(rightscale))\nParticipant 1 gesture: point(('green_block', 'other participants'))\nScale state: scale: lean(zero)\nParticipant 2 action: put(greenblock,(rightscale))"
+                },
+                "output": {
+                    "text": "Participant 1 placed the yellow block on the left side of the scale, causing the scale to lean to the left. Participant 1 said, \"Yellow block one feels just a smidge heavier, yeah, try green block one,\" and then placed the purple block on the right side of the scale. Participant 2 placed the green block on the table, while Participant 1 placed the red block on the table. Participant 1 then placed the purple block on the right side of the scale again and pointed towards the green block and the other participants. The scale balanced to zero. Finally, Participant 2 placed the green block on the right side of the scale.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Green is twenty right"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Green is twenty, right?\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Green and purple block one\nParticipant 2 gesture: point(('green_block', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Green and purple block one,\" while pointing towards the green block and the other participants.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 gesture: point(('computer', 'other participants'))\nParticipant 2 gesture: point(('computer', 'other participants'))\nParticipant 3 utterance: Green is twenty and purple is thirty so yellow block weighs to fifty\nParticipant 2 gesture: point(('green_block', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 3 pointed towards the computer and the other participants and said, \"Green is twenty and purple is thirty, so yellow block weighs fifty.\" Participant 2 also pointed towards the computer and the other participants, then pointed towards the green block and the other participants.",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: it seems to be"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"It seems to be.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20,\n  \"purple\": 30,\n  \"yellow\": 50\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    }
+}

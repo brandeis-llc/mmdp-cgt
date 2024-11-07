@@ -1,0 +1,280 @@
+{
+    "65.73": {
+        "gold": [],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: I would say red block, blue block's equal probably"
+                },
+                "output": {
+                    "text": "Participant 2 suggested that the weight of the blue block is likely equal to that of the red block.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Looks equal yeah get"
+                },
+                "output": {
+                    "text": "Participant 3 agreed with Participant 2's suggestion that the blue block's weight is likely equal to the red block's weight.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "79.58": {
+        "gold": [],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I would say red block, blue block's equal"
+                },
+                "output": {
+                    "text": "Participant 1 also suggested that the weight of the blue block is likely equal to the weight of the red block.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Yeah blue block should be same I guess"
+                },
+                "output": {
+                    "text": "Participant 3 agreed with Participant 1 and Participant 2 that the weight of the blue block is likely the same as the weight of the red block.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Yeah that 's good"
+                },
+                "output": {
+                    "text": "Participant 2 expressed agreement with the consensus that the weight of the blue block is likely the same as the weight of the red block.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "They concluded that red block is 10, blue block is 10. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "136.79": {
+        "gold": [
+            "purple=30"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Yeah ok so green block one will go"
+                },
+                "output": {
+                    "text": "Participant 1 suggested that they should now focus on determining the weight of the green block.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: I think it's the"
+                },
+                "output": {
+                    "text": "Participant 3 started to express their thoughts on the weight of the green block, but the utterance seems incomplete.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Yeah red block, blue block, green block's probably equal"
+                },
+                "output": {
+                    "text": "Participant 2 suggested that the weight of the green block is likely equal to the weights of the red and blue blocks.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: So we got ten ten"
+                },
+                "output": {
+                    "text": "Participant 1 reiterated that they have determined the weights of the red and blue blocks to be 10 grams each.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: purple block's not"
+                },
+                "output": {
+                    "text": "Participant 3 indicated that the weight of the purple block is not the same as the weights of the red and blue blocks.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Definitely not equal"
+                },
+                "output": {
+                    "text": "Participant 1 agreed with Participant 3 that the weight of the purple block is definitely not equal to the weights of the red and blue blocks.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: green block, blue block was twenty and ten right ok"
+                },
+                "output": {
+                    "text": "Participant 1 recalled that the weights of the green and blue blocks were determined to be 20 grams and 10 grams, respectively.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: green block, blue block was twenty ten yep"
+                },
+                "output": {
+                    "text": "Participant 3 confirmed Participant 1's recollection that the weights of the green and blue blocks were 20 grams and 10 grams, respectively.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Look we have the thirty gram block and then"
+                },
+                "output": {
+                    "text": "Participant 1 pointed out that they have identified a block weighing 30 grams, indicating a new weight measurement.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "They concluded that red block is 10, blue block is 10. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "173.75": {
+        "gold": [
+            "purple=30",
+            "yellow=50"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: The two the yellow and green I don't know just kidding"
+                },
+                "output": {
+                    "text": "Participant 1 made a light-hearted comment about not knowing the weights of the yellow and green blocks, indicating uncertainty.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Just like ever so slightly though so green block, purple block, yellow block's probably probably say green block, purple block, yellow block's equal"
+                },
+                "output": {
+                    "text": "Participant 2 suggested that the weights of the green, purple, and yellow blocks are likely very close to each other, possibly equal.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: I think yellow block's sixty so green block one was twenty"
+                },
+                "output": {
+                    "text": "Participant 3 shared their belief that the weight of the yellow block is 60 grams, while the weight of the green block is 20 grams.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: purple block one was thirty so yellow block should be fifty less"
+                },
+                "output": {
+                    "text": "Participant 3 mentioned that the weight of the purple block is 30 grams, and based on that, they inferred that the weight of the yellow block should be 50 grams less.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Ok good deal"
+                },
+                "output": {
+                    "text": "Participant 1 expressed agreement or satisfaction with the progress made in determining the weights of the blocks.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "They concluded that red block is 10, blue block is 10, green block is 20. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"green\": 20,\n  \"purple\": 30,\n  \"yellow\": 60\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    }
+}

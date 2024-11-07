@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-01-24T11:31:55-07:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/bradf/OneDrive - Colostate/Research/Initial Observations for Fib Weights/Data/Videos/Group_05/Group_05-master-audio.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Group_05-master-audio.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:13d054ca-4f93-4b7e-8b24-ce8076463e00</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">111</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="33170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="34940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="42700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="43750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="45150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="45810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="50360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="51130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="62840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="63660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="70780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="71500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="78910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="79660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="80470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="80750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="92395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="95055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="110380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="111500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="111880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="113800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="131710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="133000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="133000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="133840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="133840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="134360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="135100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="135620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="135700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="136260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="140650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="141030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="146110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="147310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="148060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="149470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="149740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="150400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="155580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="156190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="156480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="156600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="156870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="157550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="158250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="158330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="158460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="158950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="161570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="162130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="167040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="167590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="168340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="168380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="169110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="170040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="170490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="171060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="181130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="181970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="192680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="192980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="195780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="197130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="197610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="199160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="199860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="199860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="199980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="199985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="202460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="206660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="210660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="211050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="211180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="213960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="224260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="225280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="229760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="234850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="237530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="242790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="244540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="245390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="249880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="251940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="255150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="255870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="258155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="258155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="258985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="258985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="261705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="262315"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="284170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="285470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="285780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="288500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="291030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="293610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="312495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="313195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="335190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="336310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="364200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="364810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="368460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="368835"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="369860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="373455"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="390460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="392040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="393305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="393910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="394045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="395640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="397335"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="398855"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="398860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="400840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="400875"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="401500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="401500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="401920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="401935"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="402255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="403650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="404510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="405590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="406190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="555450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="556180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="567850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="568190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="576550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="577530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="598230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="599680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="600000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="600970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="603100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="603330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="603350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="603880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="603880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="604310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="604310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="605290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="605400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="606110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="606110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="606970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="606990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="607140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="607300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="607300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="607700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="608070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="608190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="609330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="610530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="610535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="610660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="610980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="610980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="611550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="611970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="613970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="614170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="614890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="615015"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="615765"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="621090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="622020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="623680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="624110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="635350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="638110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="690480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="691360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="712365"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="712765"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="729580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="729820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="734080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="736440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="736650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="738200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="740000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="741520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="741640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="742730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="742830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="743870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="743930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="744310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="744320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="745890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="746090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="752090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="752770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="752780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="753020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="753020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="753990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="754170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="754380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="755410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="755940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="755990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="757020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="757210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts215" TIME_VALUE="790510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts216" TIME_VALUE="792040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts217" TIME_VALUE="792040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts218" TIME_VALUE="793540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts219" TIME_VALUE="796110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts220" TIME_VALUE="796960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts221" TIME_VALUE="905950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts222" TIME_VALUE="906840"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Participant 3">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (r / researcher))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (r / researcher))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (r / researcher))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (gb / green_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (p / paper)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (l / laptop)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (p / paper)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (rb / red_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (n / no)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts157">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (p / paper)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (p / paper)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts189">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts202" TIME_SLOT_REF2="ts203">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts205">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (pb / purple_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts210" TIME_SLOT_REF2="ts214">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
+                TIME_SLOT_REF1="ts221" TIME_SLOT_REF2="ts222">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p3 / participant_3)
+	:ARG1 (y / yes)
+	:ARG2 (r / researcher))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Participant 2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (gb / green_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (gb / green_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (gb / green_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (l / laptop)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (pb / purple_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (s / scale)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (l / laptop)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (pb / purple_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (gb / green_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (yb / yellow_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (p / paper)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (pb / purple_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (yb / yellow_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (laptop / laptop)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>(i / icon-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (ba / balance)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts111">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts163">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts208" TIME_SLOT_REF2="ts211">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (p / paper)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts215" TIME_SLOT_REF2="ts216">
+                <ANNOTATION_VALUE>(i / icon-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts218">
+                <ANNOTATION_VALUE>(i / icon-GA
+	:ARG0 (p2 / participant_2)
+	:ARG1 (ab / all_blocks)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Participant 1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (p3 / participant_3)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (p / paper)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (p / paper)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (gb / green_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (s / scale)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (r / researcher)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (bb / blue_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (gb / green_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (gb / green_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (pb / purple_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (pb / purple_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (pb / purple_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (yb / yellow_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (pb / purple_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (gb / green_block)
+	:ARG2 (g / group)) </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (yb / yellow_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (laptop / laptop)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (l / laptop)
+	:ARG2 (r / researcher))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (l / laptop)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts117">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (rb / red_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (p3 / participant_3)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts165">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (l / laptop)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103"
+                TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104"
+                TIME_SLOT_REF1="ts188" TIME_SLOT_REF2="ts190">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105"
+                TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (rb / red_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106"
+                TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (p / paper)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107"
+                TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (bb / blue_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108"
+                TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (b / block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109"
+                TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (pb / purple_block)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110"
+                TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts209">
+                <ANNOTATION_VALUE>(d / deixis-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (b / block)
+	:ARG2 (g / group)) </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111"
+                TIME_SLOT_REF1="ts219" TIME_SLOT_REF2="ts220">
+                <ANNOTATION_VALUE>(e / emblem-GA
+	:ARG0 (p1 / participant_1)
+	:ARG1 (y / yes)
+	:ARG2 (g / group))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,280 @@
+{
+    "65.73": {
+        "gold": [],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: I would say that's equal probably"
+                },
+                "output": {
+                    "text": "Participant 2 made a comment suggesting that the weight being measured is likely equal.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Looks equal yeah get"
+                },
+                "output": {
+                    "text": "Participant 3 agreed with Participant 2's assessment that the weights are likely equal.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "79.58": {
+        "gold": [],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I would say that's equal"
+                },
+                "output": {
+                    "text": "Participant 1 also suggests that the weights being measured are likely equal.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Yeah it should be same I guess"
+                },
+                "output": {
+                    "text": "Participant 3 agrees with Participant 1 and Participant 2 that the weights are likely the same.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Yeah that 's good"
+                },
+                "output": {
+                    "text": "Participant 2 expresses agreement with the consensus that the weights are likely equal.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "They concluded that red block is 10. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "136.79": {
+        "gold": [
+            "purple=30"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Yeah ok so that one will go"
+                },
+                "output": {
+                    "text": "Participant 1 indicates agreement with the conclusion reached about the weight of the red block.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: I think it's the"
+                },
+                "output": {
+                    "text": "Participant 3 seems to be expressing uncertainty or hesitation about the situation.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Yeah it's probably equal"
+                },
+                "output": {
+                    "text": "Participant 2 reiterates the belief that the weights are likely equal, adding to the previous discussion.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: So we got ten ten"
+                },
+                "output": {
+                    "text": "Participant 1 confirms that they have determined the weight of the red block to be 10 grams.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: That's not"
+                },
+                "output": {
+                    "text": "Participant 3 seems to disagree or express doubt about the current discussion or conclusion.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Definitely not equal"
+                },
+                "output": {
+                    "text": "Participant 1 firmly states that the weights are definitely not equal, expressing a different opinion from the previous suggestions.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: That was twenty and ten right ok"
+                },
+                "output": {
+                    "text": "Participant 1 clarifies that the weights being discussed were twenty and ten, indicating a different weight measurement than previously mentioned.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: That was twenty ten yep"
+                },
+                "output": {
+                    "text": "Participant 3 confirms Participant 1's clarification that the weights discussed were indeed twenty and ten.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Look we have the thirty gram block and then"
+                },
+                "output": {
+                    "text": "Participant 1 points out the presence of a thirty gram block in the discussion, introducing a new weight measurement to consider.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "They concluded that red block is 10. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 20,\n  \"yellow\": 10,\n  \"purple\": 30\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "173.75": {
+        "gold": [
+            "yellow=50",
+            "purple=30"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: The two the yellow and green I don't know just kidding"
+                },
+                "output": {
+                    "text": "Participant 1 jokes about not knowing the weights of the yellow and green blocks, adding humor to the discussion.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Just like ever so slightly though so it's probably probably say that's equal"
+                },
+                "output": {
+                    "text": "Participant 2 suggests that the difference in weight is very slight, leading them to believe that the weights are likely equal.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: I think it's sixty so this one was twenty"
+                },
+                "output": {
+                    "text": "Participant 3 makes an estimation that one block weighs sixty grams, and identifies another block as weighing twenty grams.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: This one was thirty so this should be fifty less"
+                },
+                "output": {
+                    "text": "Participant 3 calculates that one block weighs thirty grams, and suggests that another block should weigh fifty grams less than that.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Ok good deal"
+                },
+                "output": {
+                    "text": "Participant 1 acknowledges the information shared by Participant 3 with a positive response.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "They concluded that red block is 10, blue block is 20, yellow block is 10, purple block is 30. After the discussion, Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 20,\n  \"yellow\": 10,\n  \"purple\": 30\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    }
+}

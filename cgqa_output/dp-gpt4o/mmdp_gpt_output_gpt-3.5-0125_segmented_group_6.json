@@ -1,0 +1,462 @@
+{
+    "85.29": {
+        "gold": [],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I guess if red block red one's ten grams"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"I guess if the red block, the red one's ten grams.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: We got red ten"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"We got red ten.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Seems like red block, blue block might be about the same"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"Seems like the red block, blue block might be about the same.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: I would agree yeah so blue block one's ten"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"I would agree, yeah, so the blue block one's ten.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "166.67": {
+        "gold": [
+            "purple=30"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Too heavy so"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Too heavy, so...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Looks like about twenty"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Looks like about twenty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: So yellow block one is noticeably heavier than"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"So the yellow block one is noticeably heavier than...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Probably yellow block big sucker"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Probably the yellow block, big sucker.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: The purple ish one"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"The purple-ish one.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Making sure that purple block didn't have the weight at the bottom"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"Making sure that the purple block didn't have the weight at the bottom.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: it's just stuff written at the bottom that's a so red block, green block's a ten and a twenty right now right that's looking"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"It's just stuff written at the bottom. That's a... So, the red block, green block's a ten and a twenty right now, right? That's looking...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: red block, blue block, green block, yellow block, purple block're increments of ten I would say that's probably"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Red block, blue block, green block, yellow block, purple block are increments of ten, I would say that's probably...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Cause purple block's also a twenty let's double check that purple block's not also a twenty"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Cause the purple block's also a twenty. Let's double check that the purple block's not also a twenty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Cause it um just purple block one there"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Cause it, um, just the purple block one there.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Is blue block one a twenty"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Is the blue block one a twenty?\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Ok so purple block's more than twenty but it almost seems like the thirty takes it past but"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Ok, so the purple block's more than twenty, but it almost seems like the thirty takes it past, but...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: If red block, blue block, green block, yellow block, purple block're only in increments of ten purple block has to be"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"If the red block, blue block, green block, yellow block, purple block are only in increments of ten, the purple block has to be...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I think yeah purple block has to be thirty purple block"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"I think, yeah, the purple block has to be thirty, the purple block.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: So big blue is probably thirty"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"So, big blue is probably thirty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"yellow\": 20,\n  \"purple\": 30,\n  \"big blue\": 30\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "248.73": {
+        "gold": [
+            "purple=30",
+            "yellow=50"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: So I would guess the yellow one is gonna be"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"So I would guess the yellow one is gonna be...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Fifty"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Fifty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Yeah purple block, green block's considerably heavier so purple block one did we say purple block was thirty"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Yeah, the purple block, green block's considerably heavier. So, purple block one, did we say the purple block was thirty?\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: And blue block was ten"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"And the blue block was ten.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Yeah purple block's thirty green is twenty"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Yeah, the purple block's thirty, green is twenty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Red and small blue are both ten"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Red and small blue are both ten.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: yellow block's definitely not thirty so yellow block has to"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Yellow block's definitely not thirty, so yellow block has to...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: But green block, purple block's too heavy"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"But the green block, purple block's too heavy.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: purple block, green block is fifty on here so then"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"Purple block, green block is fifty on here, so then...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Yeah green and big blue"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Yeah, green and big blue.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Did we try forty we did try forty because green block one's thirty and then blue block one's or green block one's twenty so purple block, blue block"
+                },
+                "output": {
+                    "text": "Participant 3 said, \"Did we try forty? We did try forty because the green block one's thirty and then the blue block one's... or the green block one's twenty, so purple block, blue block...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Big blue"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"Big blue.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Unless she's messing with us and some of red block, blue block, green block, purple block, yellow block are in increments of five"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"Unless she's messing with us and some of the red block, blue block, green block, purple block, yellow block are in increments of five.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: So purple block, blue block should be forty right there"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"So, purple block, blue block should be forty right there.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Big blue was forty"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"Big blue was forty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: I would say yellow is like forty five but we could say fifty since we're"
+                },
+                "output": {
+                    "text": "Participant 2 said, \"I would say yellow is like forty-five, but we could say fifty since we're...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I would say that yellow block is at least closest to fifty"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"I would say that the yellow block is at least closest to fifty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Alright"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"Alright.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"blue\": 10,\n  \"yellow\": 50,\n  \"purple\": 30,\n  \"green\": 20,\n  \"big blue\": 40\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    }
+}

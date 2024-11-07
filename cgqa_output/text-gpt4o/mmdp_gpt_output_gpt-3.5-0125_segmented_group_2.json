@@ -1,0 +1,440 @@
+{
+    "151.95": {
+        "gold": [],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Can we use this piece of paper"
+                },
+                "output": {
+                    "text": "Participant 2 suggested, \"Can we use this piece of paper?\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Yeah it's like a bit slow to level up"
+                },
+                "output": {
+                    "text": "Participant 1 responded, \"Yeah, it's like a bit slow to level up.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: So I would imagine if this"
+                },
+                "output": {
+                    "text": "Participant 1 began to speculate, saying, \"So I would imagine if this...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Needle goes over the red line that means they're probably equal"
+                },
+                "output": {
+                    "text": "Participant 1 continued, \"Needle goes over the red line, that means they're probably equal.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: And I I think they are"
+                },
+                "output": {
+                    "text": "Participant 2 agreed, saying, \"And I, I think they are.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Especially since it keeps going back in a"
+                },
+                "output": {
+                    "text": "Participant 2 elaborated, \"Especially since it keeps going back in a...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Yeah they also just look like relatively the same size but they could be different material you know"
+                },
+                "output": {
+                    "text": "Participant 1 added, \"Yeah, they also just look like relatively the same size, but they could be different material, you know.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: So that one is probably ten grams too"
+                },
+                "output": {
+                    "text": "Participant 1 concluded, \"So that one is probably ten grams too.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: And then if that's ten grams then we have a two"
+                },
+                "output": {
+                    "text": "Participant 1 continued, \"And then if that's ten grams, then we have a two...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: So I'm going to hold back on that one because I think it's the heaviest"
+                },
+                "output": {
+                    "text": "Participant 2 decided, \"So I'm going to hold back on that one because I think it's the heaviest.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: The green one"
+                },
+                "output": {
+                    "text": "Participant 2 specified, \"The green one.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: And that looks like it might be about even"
+                },
+                "output": {
+                    "text": "Participant 2 observed, \"And that looks like it might be about even.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: There we go that's better"
+                },
+                "output": {
+                    "text": "Participant 1 remarked, \"There we go, that's better.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Well on the first go through I noticed how it bounced twice and actually get some momentum ok so then"
+                },
+                "output": {
+                    "text": "Participant 2 explained, \"Well, on the first go through, I noticed how it bounced twice and actually got some momentum. Okay, so then...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Yeah so that's probably twenty grams"
+                },
+                "output": {
+                    "text": "Participant 1 agreed, \"Yeah, so that's probably twenty grams.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: You'd imagine and then"
+                },
+                "output": {
+                    "text": "Participant 1 speculated, \"You'd imagine, and then...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"green\": 20\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "155.34": {
+        "gold": [
+            "blue=10",
+            "red=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: The first two are ten"
+                },
+                "output": {
+                    "text": "```json\n{\n  \"red\": 10,\n  \"green\": 10\n}\n```",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Yep"
+                },
+                "output": {
+                    "text": "Participant 2 confirmed, \"Yep.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"green\": 10\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "166.59": {
+        "gold": [
+            "blue=10",
+            "green=20",
+            "red=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: So knowing that uh oh sorry the green one was yeah"
+                },
+                "output": {
+                    "text": "Participant 2 clarified, \"So knowing that, uh oh sorry, the green one was, yeah.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Yeah"
+                },
+                "output": {
+                    "text": "Participant 3 agreed, \"Yeah.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"green\": 20\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "227.47": {
+        "gold": [
+            "blue=10",
+            "green=20",
+            "purple=30",
+            "red=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: This is what we are looking at next"
+                },
+                "output": {
+                    "text": "Participant 3 stated, \"This is what we are looking at next.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: So you know twenty plus ten thirty probably"
+                },
+                "output": {
+                    "text": "Participant 1 speculated, \"So you know, twenty plus ten, thirty probably.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Yeah but it still feels like it's leaning towards the two blocks"
+                },
+                "output": {
+                    "text": "Participant 2 responded, \"Yeah, but it still feels like it's leaning towards the two blocks.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Oh yeah it does"
+                },
+                "output": {
+                    "text": "Participant 1 agreed, \"Oh yeah, it does.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: I guess it's leveling out a bit more but"
+                },
+                "output": {
+                    "text": "Participant 1 observed, \"I guess it's leveling out a bit more, but...\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: I guess and there's no increment so five so we could probably just go with thirty on that"
+                },
+                "output": {
+                    "text": "Participant 2 suggested, \"I guess, and there's no increment, so five, so we could probably just go with thirty on that.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"green\": 20,\n  \"unknown\": 30\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "260.67": {
+        "gold": [
+            "blue=10",
+            "green=20",
+            "purple=30",
+            "red=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Putting this on that side checking this one"
+                },
+                "output": {
+                    "text": "Participant 1 said, \"Putting this on that side, checking this one.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Which is too much so we'll put twenty right"
+                },
+                "output": {
+                    "text": "Participant 1 continued, \"Which is too much, so we'll put twenty, right?\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: So that's the twenty and the thirty"
+                },
+                "output": {
+                    "text": "Participant 2 confirmed, \"So that's the twenty and the thirty.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: It's leaning towards one side a bit much"
+                },
+                "output": {
+                    "text": "Participant 2 observed, \"It's leaning towards one side a bit much.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Yeah we could probably try it with just ten"
+                },
+                "output": {
+                    "text": "Participant 1 suggested, \"Yeah, we could probably try it with just ten.\"",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"red\": 10,\n  \"green\": 20,\n  \"unknown\": 30\n}",
+                    "model": "gpt-4o-2024-05-13",
+                    "role": "assistant"
+                }
+            }
+        ]
+    }
+}

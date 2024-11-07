@@ -1,0 +1,352 @@
+{
+    "151.95": {
+        "gold": [],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Needle goes over the red line that means red block, blue block're probably equal"
+                },
+                "output": {
+                    "text": "Participant 1 mentioned that when the needle goes over the red line on the scale, it indicates the red block. They also suggested that the blue block is likely to have a similar weight to the red block.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: And I I think red block, blue block are"
+                },
+                "output": {
+                    "text": "Participant 2 started to express their thoughts on the weights of the red and blue blocks, but their statement was left incomplete.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Yeah red block, blue block also just look like relatively the same size but red block, blue block could be different material you know\nParticipant 2 action: put(blueblock,(table))\nScale state: scale: lean(right)"
+                },
+                "output": {
+                    "text": "Participant 1 noted that the red and blue blocks appear to be similar in size, but they could be made of different materials. Participant 2 placed the blue block on the table. The scale leaned to the right.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 action: put(yellowblock,(leftscale))\nParticipant 1 utterance: So blue block one is probably ten grams too"
+                },
+                "output": {
+                    "text": "Participant 2 placed the yellow block on the left scale. Participant 1 suggested that the blue block likely weighs ten grams as well.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 action: put(blueblock,(rightscale))\nParticipant 1 utterance: And then if blue block's ten grams then we have a two"
+                },
+                "output": {
+                    "text": "Participant 2 placed the blue block on the right scale. Participant 1 continued by stating that if the blue block weighs ten grams, then they have a certain outcome.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: So I'm going to hold back on yellow block one because I think yellow block's the heaviest\nScale state: scale: lean(right)\nParticipant 2 action: put(yellowblock,(table))"
+                },
+                "output": {
+                    "text": "Participant 2 expressed their decision to hold back on weighing the yellow block because they believe it is the heaviest. The scale leaned to the right. Participant 2 then placed the yellow block on the table.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 action: put(greenblock,(leftscale))\nParticipant 2 utterance: The green one"
+                },
+                "output": {
+                    "text": "Participant 2 placed the green block on the left scale and simply mentioned \"The green one.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: And that looks like it might be about even"
+                },
+                "output": {
+                    "text": "Participant 2 commented that the green block appears to be approximately equal in weight to the other blocks.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Yeah so green block's probably twenty grams\nScale state: scale: lean(right)\nParticipant 2 action: put(greenblock,(table))"
+                },
+                "output": {
+                    "text": "Participant 1 suggested that the green block likely weighs twenty grams. The scale leaned to the right. Participant 2 then placed the green block on the table.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: You'd imagine and then\nParticipant 2 action: put(blueblock,(table))"
+                },
+                "output": {
+                    "text": "Participant 1 started a sentence but did not complete it. Participant 2 placed the blue block on the table.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"Red Block\": 10,\n  \"Blue Block\": 10,\n  \"Yellow Block\": \"Not weighed\",\n  \"Green Block\": 20\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "155.34": {
+        "gold": [
+            "blue=10",
+            "red=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 action: put(redblock,(table))\nParticipant 1 utterance: The first two are ten\nScale state: scale: lean(zero)\nParticipant 2 gesture: point(('participant_3', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 2 placed the red block on the table. Participant 1 stated that the first two blocks (red and blue) weigh ten grams each. The scale was balanced. Participant 2 gestured towards 'participant_3' and the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Yep"
+                },
+                "output": {
+                    "text": "Participant 2 simply confirmed with a \"Yep.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"Red Block\": 10,\n  \"Blue Block\": 10,\n  \"Yellow Block\": \"Not weighed\",\n  \"Green Block\": 20\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "166.59": {
+        "gold": [
+            "blue=10",
+            "green=20",
+            "red=10"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: So knowing that uh oh sorry the green one was yeah\nParticipant 3 action: lift(greenblock)\nParticipant 2 gesture: point(('paper', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 2 started to say something about the green block but got interrupted. Participant 3 lifted the green block. Participant 2 gestured towards the paper and the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 utterance: Yeah"
+                },
+                "output": {
+                    "text": "Participant 3 simply responded with a \"Yeah.\"",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"Red Block\": 10,\n  \"Blue Block\": 10,\n  \"Yellow Block\": \"Not weighed\",\n  \"Green Block\": 20\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "227.47": {
+        "gold": [
+            "blue=10",
+            "green=20",
+            "red=10",
+            "purple=30"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 3 action: put(purpleblock,(leftscale))\nScale state: scale: lean(left)\nParticipant 3 utterance: purple block is what we are looking at next"
+                },
+                "output": {
+                    "text": "Participant 3 placed the purple block on the left scale. The scale leaned to the left. Participant 3 mentioned that the next block they are focusing on is the purple block.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: So you know twenty plus ten thirty probably"
+                },
+                "output": {
+                    "text": "Participant 1 calculated that the combined weight of the green block (20 grams) and the red block (10 grams) is likely thirty grams.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: Yeah but it still feels like it's leaning towards the two blocks\nParticipant 2 gesture: point(('location', 'other participants'))"
+                },
+                "output": {
+                    "text": "Participant 2 expressed that despite the calculated weight, it still seems like the scale is leaning towards the two blocks. They gestured towards the location of the other participants.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: I guess and there's no increment so five so we could probably just go with thirty on purple block"
+                },
+                "output": {
+                    "text": "Participant 2 suggested that since there was no noticeable change in weight increments, they could assume the purple block weighs thirty grams.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"Red Block\": 10,\n  \"Blue Block\": 10,\n  \"Yellow Block\": \"Not weighed\",\n  \"Green Block\": 20,\n  \"Purple Block\": 30\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    },
+    "260.67": {
+        "gold": [
+            "blue=10",
+            "green=20",
+            "red=10",
+            "purple=30"
+        ],
+        "gpt_chat": [
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 gesture: point(('green_block', 'other participants'))\nParticipant 1 utterance: Putting purple block on that side checking yellow block one\nParticipant 2 action: put(purpleblock,(rightscale))\nScale state: scale: lean(right)\nParticipant 1 action: put(yellowblock,(leftscale))\nScale state: scale: lean(left)"
+                },
+                "output": {
+                    "text": "Participant 1 pointed towards the green block and mentioned that they were placing the purple block on that side while checking the weight of the yellow block. Participant 2 placed the purple block on the right scale, causing the scale to lean to the right. Participant 1 placed the yellow block on the left scale, making it lean to the left.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Which is too much so we'll put twenty right\nParticipant 2 action: put(greenblock,(rightscale))\nScale state: scale: lean(zero)"
+                },
+                "output": {
+                    "text": "Participant 1 observed that the weight of the yellow block was excessive, so they decided to assign a weight of twenty grams to it. Participant 2 placed the green block on the right scale, resulting in a balanced scale.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 2 utterance: So purple block, green block's the twenty and the thirty"
+                },
+                "output": {
+                    "text": "Participant 2 stated that the purple block and the green block weigh twenty grams and thirty grams, respectively.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Scale state: scale: lean(left)\nParticipant 2 utterance: it's leaning towards one side a bit much\nParticipant 2 action: put(greenblock,(table))"
+                },
+                "output": {
+                    "text": "The scale leaned to the left, indicating an imbalance. Participant 2 commented that it was leaning too much towards one side. They then placed the green block on the table.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Participant 1 utterance: Yeah we could probably try it with just ten\nParticipant 2 action: put(blueblock,(rightscale))"
+                },
+                "output": {
+                    "text": "Participant 1 suggested trying to balance the scale with just ten grams. Participant 2 placed the blue block on the right scale.",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            },
+            {
+                "input": {
+                    "role": "user",
+                    "content": "Do they update or reach a conclusion on the weight of the blocks that have been discussed so far? If yes, answer in the JSON format {block color: weight, ...}."
+                },
+                "output": {
+                    "text": "{\n  \"Red Block\": 10,\n  \"Blue Block\": 10,\n  \"Yellow Block\": 20,\n  \"Green Block\": 20,\n  \"Purple Block\": 30\n}",
+                    "model": "gpt-3.5-turbo-0125",
+                    "role": "assistant"
+                }
+            }
+        ]
+    }
+}
