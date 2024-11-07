@@ -1,1 +1,1 @@
-Videos can bedownloaded from https://zenodo.org/records/10252341.
+Videos can be downloaded from https://zenodo.org/records/10252341.

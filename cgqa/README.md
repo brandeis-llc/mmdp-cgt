@@ -1,4 +1,4 @@
-## CGQA Evaluation
+## CGT Evaluation
 ### Accumulative F1
 Given a dialogue with N accepted statements on the block weight, we
 evaluate the quality of the generated answers using accumulative precision, recall and F1.
@@ -15,7 +15,7 @@ DSC indicates how much the set of propositions extracted by the model matches th
 
 It is more stringent than the accumulative F1, as it cannot share the predicted proposition from previous dialogue.
 
-### CGQA Evaluation Example
+### CGT Evaluation Example
 ```
 row 1: ground truth common ground
 row 2: predicted common ground

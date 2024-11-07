@@ -1,0 +1,2 @@
+- Download `groups.zip` from [Google Drive](https://drive.google.com/file/d/1fdWIhqsFZ2HY5DbYqdG-RNML9iWs9qUt/view?usp=sharing)
+- Unzip `groups.zip` to get extracted video frame images
